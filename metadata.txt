@@ -1,0 +1,5 @@
+[general]
+name=EEU Feeder Dashboard
+description=Combined feeder progress dashboard for poles, MV overhead lines and transformers
+author=EEU GIS Tools
+version=1.0
